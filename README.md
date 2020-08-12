@@ -1,1 +1,1 @@
-Aqui é descrição do projeto não do perfil 
+Projetos em Python feitos no Curso de ADS 
